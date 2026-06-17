@@ -1,4 +1,3 @@
-# Spam-Email-Detection-using-NLP-Naive-Byes-Algorithm
 
 # Spam Email Detection using NLP & Naive Bayes
 A machine learning project that classifies SMS/email messages as spam or ham (not spam) using Natural Language Processing and a Naive Bayes classifier.
